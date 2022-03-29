@@ -1,15 +1,11 @@
 ### Hi there, I'm a full stack web developer with a background in mathematics. 👋
 
-
-- 🔭 I’m currently working on the most asked question in my house: [Did you feed the dog?](https://github.com/jenna-anderson/did-you-feed-the-dog)
-- 🌱 I’m currently learning more about backend technologies and best practices
-- ⚡ Fun fact: I just ran my first trail marathon and enjoy leatherwork
 - 📫 How to reach me: 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jenna.anderson@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jenna-d-anderson/)
 
 
-##### Languages I've use so far:
+##### Languages I've used so far:
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
